@@ -20,4 +20,4 @@ function destroyer(arr, ...args) {
   return newArr;
 }
 
-destroyer([3, 5, 1, 2, 2], 2, 3, 5);
+console.log(destroyer([3, 5, 1, 2, 2], 2, 3, 5));
